@@ -1,1 +1,1 @@
-# unbiased_estimators
+# This analysis aimed to find the factors that affect house price across the US over time. The CSVs are used as the main data. This is pulled from a group project repo but just my portion specifically. I created the master merging code for the entire group, which compined the census data, ZHVI, and WARN data. this set up the data in a clean state-year format for the team to use. Then I have my own merging and joining code where I merge FEMA disasters to the dataset. My analysis is performed in the analysis notebook.
